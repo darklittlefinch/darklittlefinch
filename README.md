@@ -1,4 +1,11 @@
-### Hi there 👋
+### About me:
+
+My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia.
+
+* Edication: Novosibirsk State Pedagogical University, Graphic Designer (incomplete)
+* Courses: Hexlet Programming School, Java Developer
+* Experience: I have 3 educational projects that you can explore in my GitHub repositories
+* Something else: I also learn Kotlin and study Android development
 
 <!--
 **darklittlefinch/darklittlefinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
