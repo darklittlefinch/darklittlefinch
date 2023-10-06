@@ -28,6 +28,14 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 * Test-Drived Development (TDD)
 * Work with data bases, SQL
 
+### PROJECTS
+
+Below you can see my educational projects. Shortly about it:
+
+* java-project-61: **Brain Games**. This is a command line utility that suggests to user to play one of five mini-games.
+* java-project-71: **Difference Finder**. Difference Finder is a program that determines the difference between two data structures.
+* java-project-78: **Data Validator**. It is a Java library that helps you to validate some data types.
+
 ### LINKS
 [My Habr profile](https://career.habr.com/darklittlefinch)
 
