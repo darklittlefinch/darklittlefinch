@@ -35,6 +35,8 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 
 [My summary (russian)](https://cv.hexlet.io/ru/resumes/2925)
 
+**e-mail** for contact with me: dark.little.finch@gmail.com
+
 <!--
 **darklittlefinch/darklittlefinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
