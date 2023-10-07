@@ -4,8 +4,7 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 
 * **Edication**: Novosibirsk State Pedagogical University, Graphic Designer (incomplete)
 * **Courses**: Hexlet Programming School, Java Developer
-* **Experience**: I have 3 educational projects that you can explore in my GitHub repositories
-* **Something else**: I also learn Kotlin and study Android development
+* **Experience**: I have a few educational projects that you can explore in my GitHub repositories
 
 ### SKILLS
 
@@ -41,10 +40,13 @@ Below you can see my educational projects. Shortly about it:
 
 [My Hexlet account](https://ru.hexlet.io/u/darklittlefinch)
 
-[My summary (russian)](https://cv.hexlet.io/ru/resumes/2925)
+[My CV (russian)](https://cv.hexlet.io/ru/resumes/2925)
 
-**e-mail** to contact with me: dark.little.finch@gmail.com
+CONTACTS:
 
+**e-mail**: dark.little.finch@gmail.com
+
+**Telegram**: @darklittlefinch
 <!--
 **darklittlefinch/darklittlefinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
