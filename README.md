@@ -24,7 +24,8 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 
 **Fundamental**:
 * OOP and SOLID principles
-* Test-Drived Development (TDD)
+* Test-Driven Development (TDD)
+* Refactoring
 * Work with data bases, SQL
 
 ### PROJECTS
@@ -42,7 +43,7 @@ Below you can see my educational projects. Shortly about it:
 
 [My CV (russian)](https://cv.hexlet.io/ru/resumes/2925)
 
-CONTACTS:
+### CONTACTS
 
 **e-mail**: dark.little.finch@gmail.com
 
