@@ -30,12 +30,12 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 
 ### PROJECTS
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=default_repocard#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=default_repocard#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=default_repocard#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-61#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-61#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-71#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-71#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-78#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-78#gh-light-mode-only)
 
 ### LINKS
 * [My Habr profile](https://career.habr.com/darklittlefinch)
