@@ -2,7 +2,7 @@
 
 My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I am **looking for work** now.
 
-* 📝 **Edication**: Novosibirsk State Pedagogical University, Graphic Designer (incomplete)
+* 📝 **Education**: Novosibirsk State Pedagogical University, Graphic Designer (incomplete)
 * 💻 **Courses**: Hexlet Programming School, Java Developer
 * 💼 **Experience**: I have a few educational projects that you can explore in my GitHub repositories
 
