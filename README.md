@@ -47,5 +47,5 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 ### CONTACTS
 
 * 🖇️ **LinkedIn**: [click](https://www.linkedin.com/in/elisa-moritz/)
-* 📧 **e-mail**: dark.little.finch@gmail.com
+* 📧 **e-mail**: elliemoritz.dev@gmail.com
 * ✈️ **Telegram**: @darklittlefinch
