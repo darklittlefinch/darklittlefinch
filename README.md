@@ -10,13 +10,13 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,gradle,git,github,postgres,bash,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,postgres,bash,html,css" />
   </a>
 </p>
 
 **Applied**:
 * Java Core, Java Collections Framework
-* Javalin Framework
+* Spring Boot, Javalin Frameworks
 * Test Automation by JUnit5
 * HTML, CSS (basics)
 * Work with Git, GitHub, building projects with Gradle
@@ -48,3 +48,4 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 
 * 🖇️ **LinkedIn**: [click](https://www.linkedin.com/in/elisa-moritz/)
 * 📧 **e-mail**: elliemoritz.dev@gmail.com
+* ✈️ **telegram**: https://t.me/darklittlefinch
