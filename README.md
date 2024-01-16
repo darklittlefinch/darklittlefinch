@@ -38,6 +38,8 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-78#gh-light-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-72&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-72#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-72&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-72#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-99&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-99#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-99&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-99#gh-light-mode-only)
 
 ### LINKS
 * [My Habr profile](https://career.habr.com/darklittlefinch)
