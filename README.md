@@ -1,24 +1,25 @@
 ### ABOUT ME
 
-My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I am **looking for work** now.
+My name is Elisa, and I am a Junior Android Programmer from Novosibirsk, Russia. I am **looking for work** now.
 
 * 📝 **Education**: Novosibirsk State Pedagogical University, Graphic Designer (incomplete)
-* 💻 **Courses**: Hexlet Programming School, Java Developer
+* 💻 **Courses**: Java Developer (Hexlet Programming School), Android Developer (Andrey Sumin's Stepik Course)
 * 💼 **Experience**: I have a few educational projects that you can explore in my GitHub repositories
 
 ### SKILLS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,postgres,bash,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,git,bash,androidstudio,idea,figma" />
   </a>
 </p>
 
 **Applied**:
-* Java Core, Java Collections Framework
-* Spring Boot, Javalin Frameworks
+* Java
+* Kotlin
+* AndroidX
 * Test Automation by JUnit5
-* HTML, CSS (basics)
+* XML (basics)
 * Work with Git, GitHub, building projects with Gradle
 * Bash, experience of using Window Subsystem for Linux (WSL)
 
@@ -30,16 +31,10 @@ My name is Elisa, and I am a Junior Java Programmer from Novosibirsk, Russia. I 
 
 ### PROJECTS
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-61#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-61#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-71#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-71#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-78#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-78#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-72&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-72#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-72&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-72#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-99&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-99#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-99&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-99#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=shopping-list&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/shopping-list#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=shopping-list&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/shopping-list#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=Composition&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/Composition#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=Composition&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/Composition#gh-light-mode-only)
 
 ### LINKS
 * [My Habr profile](https://career.habr.com/darklittlefinch)
