@@ -10,7 +10,7 @@ My name is Elisa, and I am a Junior Android Programmer from Novosibirsk, Russia.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,git,bash,androidstudio,idea,figma" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,git,bash,androidstudio,idea" />
   </a>
 </p>
 
