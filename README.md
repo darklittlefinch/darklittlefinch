@@ -37,6 +37,8 @@ My name is Elisa, and I am a Junior Android Programmer from Novosibirsk, Russia.
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=shopping-list&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/shopping-list#gh-light-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=Composition&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/Composition#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=Composition&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/Composition#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=Movies&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/Movies#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=Composition&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/Movies#gh-light-mode-only)
 
 ### LINKS
 * [My Habr profile](https://career.habr.com/darklittlefinch)
